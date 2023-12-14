@@ -35,7 +35,7 @@ const Headermain = () => {
               <div className="menu__container p-3">
                 <ul className="the_menu">
                   <li className="menu_item ">
-                  <Link  onClick={handleToggle} to="/" className="my-3" style={{fontFamily: "'VT323', monospace"}}>Home</Link>
+                  <Link  onClick={handleToggle} to="/" className="my-3 hover-option" style={{fontFamily: "'VT323', monospace"}}>Home</Link>
                   </li>
                   <li className="menu_item">
                     <Link  onClick={handleToggle} to="/portfolio" className="my-3" style={{fontFamily: "'VT323', monospace"}}> Portfolio</Link>
@@ -52,10 +52,10 @@ const Headermain = () => {
           </div>
           <div className="menu_footer d-flex flex-column flex-md-row justify-content-between align-items-md-center position-absolute w-100 p-3">
             <div className="d-flex">
-            <a href={socialprofils.github}>Github</a>
-            <a href={socialprofils.linkedin}>LinkedIn</a>
+            <a href={socialprofils.github} style={{fontFamily: "'VT323', monospace", fontSize:'1.3rem'}}>Github</a>
+            <a href={socialprofils.linkedin} style={{fontFamily: "'VT323', monospace", fontSize:'1.3rem'}}>LinkedIn</a>
             </div>
-            <p className="copyright m-0">copyright __ {logotext}</p>
+            <p className="copyright m-0" style={{fontFamily: "'VT323', monospace", fontSize:'1.3rem'}}>copyright __ {logotext}</p>
           </div>
         </div>
       </header>

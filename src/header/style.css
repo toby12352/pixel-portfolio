@@ -184,12 +184,17 @@
 }
 
 .the_menu .menu_item>a:hover {
+    font-size: 2.2rem;
     color: var(--text-color-3);
 }
 
 @media (min-width: 768px) {
     .the_menu .menu_item>a {
-        font-size: 4.8vw;
+        font-size: 5.5rem;
+    }
+    
+    .the_menu .menu_item>a:hover {
+        font-size: 5.7rem;
     }
 }
 
@@ -204,4 +209,12 @@
     color: var(--text-color-2);
     margin-right: 10px;
     text-decoration: none;
+}
+
+.hover-option{
+    transition: font-size 0.3s ease;
+}
+
+.hover-option:hover{
+    font-size:5rem;
 }

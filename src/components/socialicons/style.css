@@ -31,11 +31,12 @@
     white-space: nowrap;
     position: relative;
     transform: rotate( -90deg);
+    padding-right: 1rem;
 }
 
 .stick_follow_icon ul li {
     display: block;
-    font-size: 12px;
+    font-size: 1.2rem;
     text-align: center;
     margin-bottom: 10px;
     transition: all .3s;

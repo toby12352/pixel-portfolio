@@ -16,20 +16,20 @@ export const Socialicons = (params) => {
       <ul>
         {socialprofils.github && (
           <li>
-            <a href={socialprofils.github}>
-              <FaGithub />
+            <a href={socialprofils.github} style={{paddingRight:'1rem'}}>
+              <FaGithub/>
             </a>
           </li>
         )}
         {socialprofils.linkedin && (
           <li>
-            <a href={socialprofils.linkedin}>
-              <FaLinkedin />
+            <a href={socialprofils.linkedin} style={{paddingRight:'1rem'}}>
+              <FaLinkedin/>
             </a>
           </li>
         )}
       </ul>
-      <p style={{fontSize:'1rem'}}>Follow Me</p>
+      <p style={{paddingRight:'1rem', fontSize:'1.2rem'}}>Follow Me</p>
     </div>
   );
 };
