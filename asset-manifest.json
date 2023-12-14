@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/tobythaung-personal-website/static/css/main.fbc00891.css",
-    "main.js": "/tobythaung-personal-website/static/js/main.c0b3b2af.js",
-    "index.html": "/tobythaung-personal-website/index.html"
+    "main.css": "/pixel-portfolio/static/css/main.79f04a53.css",
+    "main.js": "/pixel-portfolio/static/js/main.faea0352.js",
+    "index.html": "/pixel-portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.fbc00891.css",
-    "static/js/main.c0b3b2af.js"
+    "static/css/main.79f04a53.css",
+    "static/js/main.faea0352.js"
   ]
 }
