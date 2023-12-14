@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/pixel-portfolio/static/css/main.983a2897.css",
-    "main.js": "/pixel-portfolio/static/js/main.a62ba2d6.js",
+    "main.js": "/pixel-portfolio/static/js/main.bfa1003b.js",
     "index.html": "/pixel-portfolio/index.html"
   },
   "entrypoints": [
     "static/css/main.983a2897.css",
-    "static/js/main.a62ba2d6.js"
+    "static/js/main.bfa1003b.js"
   ]
 }
