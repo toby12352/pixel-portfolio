@@ -95,27 +95,27 @@ const tools = [
 
 const dataportfolio = [
     {
-        img:"https://static.vecteezy.com/system/resources/previews/007/581/530/original/speech-bubble-place-for-text-boxes-with-pixel-art-illustration-free-vector.jpg",
-        description: "A pixel theme chatroom for my visitors. No need to sign up! --- (Since website is unsecured right now, please refrain from putting in sensitive information.⚠️)",
+        img:"https://i.pinimg.com/originals/c7/d5/9d/c7d59ddc9346ba8d41f83de6718f7d57.gif",
+        description: "A pixel theme chatroom for my visitors. No need to sign up!",
         link: "http://52.34.201.95/"
     },
     {
-        img: "https://i.redd.it/74gqch6yvzua1.gif",
-        description: "Refurbished frontend design for V-Notebook (Work In Progress)",
+        img:"https://media1.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif?cid=6c09b952f8ibj4v9hsw7z87sql8yqkcaqnoqc8q7ajiziqrk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s",
+        description: "Redesigning frontend design for V-Notebook (Work In Progress)",
         link: "https://reliable-fairy-9217d9.netlify.app/"
     },
     {
-        img: "https://static.vecteezy.com/ti/vetor-gratis/p3/7816869-vector-pixel-art-book-icon-for-game-development-gratis-vetor.jpg",
-        description: "Virtual notebook website fully powered by OpenAI ---  (Since website is unsecured right now, please refrain from putting in sensitive information.⚠️)",
+        img: "https://cdn.dribbble.com/userupload/10411701/file/original-77f4a57d9e45fef6510a4b11c8549e45.gif",
+        description: "Virtual-Notebook website fully powered by OpenAI [Research]",
         link: "http://54.70.119.142:3000/"
     },
     {
-        img:"https://static.vecteezy.com/system/resources/previews/007/530/656/original/pixel-art-airplane-artwork-vector.jpg",
-        description: "3D Interactable website built using React & Three.js",
+        img:"https://art.ngfiles.com/images/2655000/2655047_urutaudevstudios_airplane-animation-pixel-art-game.gif?f1659140280",
+        description: "3D Interactable Sky Island",
         link: "https://verdant-cupcake-e6a27a.netlify.app/"
     },
     {
-        img:"https://art.pixilart.com/thumb/sr21af541f763aws3.png",
+        img:"https://art.pixilart.com/170f54c4f7fa6cb.gif",
         description:"Nike landing page website's recreation (Frontend only)",
         link:"https://gorgeous-mermaid-314b25.netlify.app/"
     },
