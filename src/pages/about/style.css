@@ -70,6 +70,10 @@
     padding-bottom: 4px;
 }
 
+span a:hover {
+    color: var(--text-color-3);
+}
+
 
 /*! CSS Used keyframes */
 

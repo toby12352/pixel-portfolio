@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/pixel-portfolio/static/css/main.f3b2ef14.css",
-    "main.js": "/pixel-portfolio/static/js/main.b38a8c3e.js",
-    "index.html": "/pixel-portfolio/index.html"
+    "main.css": "/tobyThaung/static/css/main.2b3390ae.css",
+    "main.js": "/tobyThaung/static/js/main.bbb2ea58.js",
+    "index.html": "/tobyThaung/index.html"
   },
   "entrypoints": [
-    "static/css/main.f3b2ef14.css",
-    "static/js/main.b38a8c3e.js"
+    "static/css/main.2b3390ae.css",
+    "static/js/main.bbb2ea58.js"
   ]
 }

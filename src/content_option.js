@@ -95,6 +95,16 @@ const tools = [
 
 const dataportfolio = [
     {
+        img:"https://static.vecteezy.com/system/resources/previews/007/581/530/original/speech-bubble-place-for-text-boxes-with-pixel-art-illustration-free-vector.jpg",
+        description: "A pixel theme chatroom for my visitors. No need to sign up! --- (Since website is unsecured right now, please refrain from putting in sensitive information.⚠️)",
+        link: "http://52.34.201.95/"
+    },
+    {
+        img: "https://i.redd.it/74gqch6yvzua1.gif",
+        description: "Refurbished frontend design for V-Notebook (Work In Progress)",
+        link: "https://reliable-fairy-9217d9.netlify.app/"
+    },
+    {
         img: "https://static.vecteezy.com/ti/vetor-gratis/p3/7816869-vector-pixel-art-book-icon-for-game-development-gratis-vetor.jpg",
         description: "Virtual notebook website fully powered by OpenAI ---  (Since website is unsecured right now, please refrain from putting in sensitive information.⚠️)",
         link: "http://54.70.119.142:3000/"
@@ -105,9 +115,9 @@ const dataportfolio = [
         link: "https://verdant-cupcake-e6a27a.netlify.app/"
     },
     {
-        img:"https://static.vecteezy.com/system/resources/previews/007/581/530/original/speech-bubble-place-for-text-boxes-with-pixel-art-illustration-free-vector.jpg",
-        description: "A simple group chatroom for visitors to this website. No need to sign up! --- (Since website is unsecured right now, please refrain from putting in sensitive information.⚠️)",
-        link: "http://52.34.201.95/"
+        img:"https://art.pixilart.com/thumb/sr21af541f763aws3.png",
+        description:"Nike landing page website's recreation (Frontend only)",
+        link:"https://gorgeous-mermaid-314b25.netlify.app/"
     },
     {
         img:"https://media.istockphoto.com/id/1015350564/vector/pixel-art-vector-weather-application-icons-set.jpg?s=612x612&w=0&k=20&c=OVdCKUnMuuaD9OuFwU0UO3N5pbClY70s42gOvysdD-I=",
@@ -126,7 +136,7 @@ const dataportfolio = [
     },
     {   
         img:"https://i.ibb.co/ygvbhVM/resume-logo3.png",
-        description: "Please contact me for freelance or job offers😁! (P.S: The code for all the projects above can be found within my github repo)",
+        description: "Thank you for visiting my website😁! (P.S: The code for all the projects above can be found within my github repo)",
         link: "https://drive.google.com/file/d/1wW88zD5Dfdm17QRZGes-QDMBwgohXy6O/view?usp=sharing"
     }
 ];

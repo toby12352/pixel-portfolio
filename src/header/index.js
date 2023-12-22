@@ -52,8 +52,8 @@ const Headermain = () => {
           </div>
           <div className="menu_footer d-flex flex-column flex-md-row justify-content-between align-items-md-center position-absolute w-100 p-3">
             <div className="d-flex">
-            <a href={socialprofils.github} style={{fontFamily: "'VT323', monospace", fontSize:'1.3rem'}}>Github</a>
-            <a href={socialprofils.linkedin} style={{fontFamily: "'VT323', monospace", fontSize:'1.3rem'}}>LinkedIn</a>
+            <a target="_blank" href={socialprofils.github} style={{fontFamily: "'VT323', monospace", fontSize:'1.3rem'}}>Github</a>
+            <a target="_blank" href={socialprofils.linkedin} style={{fontFamily: "'VT323', monospace", fontSize:'1.3rem'}}>LinkedIn</a>
             </div>
             <p className="copyright m-0" style={{fontFamily: "'VT323', monospace", fontSize:'1.3rem'}}>copyright __ {logotext}</p>
           </div>
