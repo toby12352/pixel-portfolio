@@ -7,10 +7,10 @@ const meta = {
 const introdata = {
     title: "I’m Tun Aung(Toby) Thaung",
     animated: {
-        zero: "Interested Roles:",
-        first: "Full-Stack Developer",
+        zero: "Full-Stack Developer",
+        first: "Front-End Developer",
         second: "Back-End Developer",
-        third: "Front-End Developer",
+        third: "Web Designer"
     },
     description: "Welcome to my portfolio website! I'm a passionate Full Stack Developer with a love for crafting web experiences that are both beautiful and functional.",
     your_img_url:"https://storage.ko-fi.com/cdn/useruploads/post/0a340988-1a6c-46bf-a17f-96c926d246ae_cloudshoritzonalwm.png",
@@ -137,7 +137,7 @@ const dataportfolio = [
     {   
         img:"https://i.ibb.co/ygvbhVM/resume-logo3.png",
         description: "Thank you for visiting my website😁! (P.S: The code for all the projects above can be found within my github repo)",
-        link: "https://drive.google.com/file/d/1wW88zD5Dfdm17QRZGes-QDMBwgohXy6O/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1dgiqt3EmuNfQiq4AkVzCWkx1hWXGLrSh/view?usp=sharing"
     }
 ];
 
