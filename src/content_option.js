@@ -18,7 +18,7 @@ const introdata = {
 
 const dataabout = {
     title: "Abit about myself",
-    aboutme: "An experienced recent graduate with a B.S in Computer Science, focus in A.I. After working as an Undergraduate Learning Assistant in college, I'm now a software engineer for a research project at Oregon State University, mainly focusing on the full-stack development of an OpenAI powered virtual-notebook website. Our website is at the initial phase of development and the prototype can be experimented through this link",
+    aboutme: "An experienced recent graduate with a B.S in Computer Science, focus in A.I. After working as an Undergraduate Learning Assistant in college, I'm now a software engineer for a research project at Oregon State University, mainly focusing on the full-stack development of an OpenAI powered virtual-notebook website.",
 };
 
 const worktimeline = [{
@@ -137,7 +137,7 @@ const dataportfolio = [
     {   
         img:"https://i.ibb.co/ygvbhVM/resume-logo3.png",
         description: "Thank you for visiting my website😁! (P.S: The code for all the projects above can be found within my github repo)",
-        link: "https://drive.google.com/file/d/1dgiqt3EmuNfQiq4AkVzCWkx1hWXGLrSh/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1dWhLaCN1ZMuA22iPuBhY3II7B6c3IzWW/view?usp=sharing"
     }
 ];
 
