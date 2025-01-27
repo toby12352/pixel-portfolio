@@ -22,23 +22,28 @@ const introdata = {
 const dataabout = {
   title: "Abit about myself",
   aboutme:
-    "An experienced recent graduate with a B.S in Computer Science, focus in A.I. After working as an Undergraduate Learning Assistant in college, I'm now a software engineer for a research project at Oregon State University, mainly focusing on the full-stack development of an OpenAI powered virtual-notebook website.",
+    "I'm a lead web developer and faculty research assistant working at Oregon State University. As a lead developer, I am working on building a soon to be commercialized web application called 'eNotebook'. And as a faculty research assistant, I oversees all aspects and events that happens within Oregon State University's Electrical Engineering and Computer Science Department(EECS) Website.",
 };
 
 const worktimeline = [
   {
-    jobtitle: "Research Software Engineer",
-    where: "Corvallis, Oregon",
+    jobtitle: "Lead Web Developer",
+    where: "Oregon State University",
+    date: "July 2024 - Present",
+  },
+  {
+    jobtitle: "Faculty Research Assistant",
+    where: "Oregon State University",
     date: "August 2023 - Present",
   },
   {
     jobtitle: "Software Engineer Intern",
-    where: "Yangon, Myanmar",
+    where: "Mudita Hospital, Myanmar",
     date: "Jan 2023 - Jun 2023",
   },
   {
     jobtitle: "Undergraduate Learning Assistant",
-    where: "Corvallis, Oregon",
+    where: "Oregon State University",
     date: "Jan 2023 - Jun 2023",
   },
 ];
