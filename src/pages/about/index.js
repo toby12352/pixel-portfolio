@@ -29,11 +29,12 @@ export const About = () => {
         </Row>
         <Row className="sec_sp">
             <div style={{fontSize:'1.8rem'}}>
-              <p>{dataabout.aboutme} * ' 
+              {dataabout.aboutme}
+              {/* <p>{dataabout.aboutme} * ' 
                 <span> 
                   <a target='_blank' href='http://54.70.119.142:3000/'>Virtual Notebook</a>' --- (Please refrain from putting in sensitive information. :D)
                 </span>
-              </p>
+              </p> */}
             </div>
         </Row>
         <Row className=" sec_sp">

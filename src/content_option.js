@@ -22,7 +22,7 @@ const introdata = {
 const dataabout = {
   title: "Abit about myself",
   aboutme:
-    "An experienced recent graduate with a B.S in Computer Science, focus in A.I. After working as an Undergraduate Learning Assistant in college, I'm now a software engineer for a research project at Oregon State University, mainly focusing on the full-stack development of an OpenAI powered virtual-notebook website. Our website is at the initial phase of development and the prototype can be experimented through this link",
+    "An experienced recent graduate with a B.S in Computer Science, focus in A.I. After working as an Undergraduate Learning Assistant in college, I'm now a software engineer for a research project at Oregon State University, mainly focusing on the full-stack development of an OpenAI powered virtual-notebook website.",
 };
 
 const worktimeline = [
